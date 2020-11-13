@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Project-Id-Version: ra7form\n"
+"Language: en\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "Recipient"
+msgstr "Recipient"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Report"
+msgstr "Report"
+
+msgid "Sender"
+msgstr "Sender"
+
+msgid "Recipients for Contact Form 7"
+msgstr "Recipients for Contact Form 7"
+
+msgid "This form does not contain multiple recipients with pipes."
+msgstr "This form does not contain multiple recipients with pipes."
+
+msgid "This form contains multiple recipients with pipes."
+msgstr "This form contains multiple recipients with pipes."
+
+msgid "This link was expired."
+msgstr "This link was expired."
+
+msgid "Nothing to show."
+msgstr "This link was expired."
+
+msgid "Edit Recipient"
+msgstr "Edit Recipient"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Save recipient"
+msgstr "Save recipient"
+
+msgid "Default Settings"
+msgstr "Default Settings"
+
+msgid "To use Multiple recipients [your-recipient] is mandatory"
+msgstr "To use Multiple recipients [your-recipient] is mandatory"
+
+msgid "New recipient"
+msgstr "New recipient"
+
+msgid "The plugin Contact Form 7 was not installed or active."
+msgstr "The plugin Contact Form 7 was not installed or active."
+
+msgid "Multiple Recipients"
+msgstr "Multiple Recipients"
+
+msgid "Changes saved."
+msgstr "Changes saved."
+
+msgid "Something goes wrong and it has not be saved"
+msgstr "Something goes wrong and it has not be saved"
+
+msgid "Close this warning."
+msgstr "Close this warning."
+
+msgid "Did you realy want to remove this recipient?"
+msgstr "Did you realy want to remove this recipient?"
+
+msgid "All emails related will be removed"
+msgstr "All emails related will be removed"
+
+msgid "This will take effect only after you click on 'Save recipient' button"
+msgstr "This will take effect only after you click on 'Save recipient' button"
+
+msgid "Maybe this email is duplicated"
+msgstr "Maybe this email is duplicated"
+
+msgid "Insert a valid email"
+msgstr "Insert a valid email"
+
+msgid "Recipients"
+msgstr "Recipients"
+
+msgid "Form"
+msgstr "Form"
+
+msgid "Required"
+msgstr "Required"

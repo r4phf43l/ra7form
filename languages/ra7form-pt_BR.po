@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Project-Id-Version: ra7form\n"
+"Language: pt_BR\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: ra7form-editor.js:1
+msgid "Recipient"
+msgstr "Recipiente"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Report"
+msgstr "Relatório"
+
+msgid "Sender"
+msgstr "Remetente"
+
+msgid "Recipients for Contact Form 7"
+msgstr "Recipientes para Contact Form 7"
+
+msgid "This form does not contain multiple recipients with pipes."
+msgstr "Este formulário não contém nenhuma lista de e-mails."
+
+msgid "This form contains multiple recipients with pipes."
+msgstr "Este formulário contém uma lista de e-mails."
+
+#: ra7form-editor.js:2
+msgid "This link was expired."
+msgstr "Este link expirou."
+
+msgid "Nothing to show."
+msgstr "Nada para exibir."
+
+msgid "Edit Recipient"
+msgstr "Editar Recipiente"
+
+msgid "Status"
+msgstr "Situação"
+
+msgid "Save recipient"
+msgstr "Salvar recipiente"
+
+msgid "Default Settings"
+msgstr "Configurações Padrão"
+
+msgid "To use Multiple recipients [your-recipient] is mandatory"
+msgstr "Para usar Múltiplos recipientes a tag [your-recipient] é obrigatória"
+
+#: ra7form-editor.js:3
+msgid "New recipient"
+msgstr "Novo recipiente"
+
+msgid "The plugin Contact Form 7 was not installed or active."
+msgstr "O plugin Contact Form 7 não está instalado ou ativo."
+
+msgid "Multiple Recipients"
+msgstr "Múltiplos recipientes"
+
+msgid "Changes saved."
+msgstr "Alterações Salvas."
+
+msgid "Something goes wrong and it has not be saved"
+msgstr "Algo deu errado e as alterações não foram salvas"
+
+msgid "Close this warning."
+msgstr "Fechar esse alerta."
+
+#: ra7form-editor.js:4
+msgid "Did you realy want to remove this recipient?"
+msgstr "Você realmente quer excluir este recipiente?"
+
+#: ra7form-editor.js:5
+msgid "All emails related will be removed"
+msgstr "Todos os e-mails relacionados serão apagados"
+
+#: ra7form-editor.js:6
+msgid "This will take effect only after you click on 'Save recipient' button"
+msgstr "Isto só terá efeito após clicar no botão 'Salvar recipiente'"
+
+#: ra7form-editor.js:7
+msgid "Maybe this email is duplicated"
+msgstr "Talvez este e-mail esteja duplicado"
+
+#: ra7form-editor.js:8
+msgid "Insert a valid email"
+msgstr "Insira um e-mail válido"
+
+#: ra7form-editor.js:9
+msgid "Recipients"
+msgstr "Recipientes"
+
+msgid "Form"
+msgstr "Formulário"
+
+msgid "Required"
+msgstr "Obrigatório"

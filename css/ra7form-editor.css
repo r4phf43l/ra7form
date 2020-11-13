@@ -1,0 +1,80 @@
+#postbox-container-3 td {
+    vertical-align:top;
+}
+
+#postbox-container-3 .tag {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    flex-basis: 25%;
+    overflow: hidden;
+}
+
+#postbox-container-3 .thickbox,
+#postbox-container-3 .thick-box {
+    padding: 5px;
+    text-align: left;
+    width: 250px;
+    overflow: hidden;
+    margin: 2px;
+    cursor: default;
+}
+
+#postbox-container-3 .thickbox > span {
+    padding:3px 0 3px 3px;
+}
+
+#postbox-container-3 .tag > .inputSpan {
+    position: relative;
+}
+
+#postbox-container-3 .tag > .inputSpan a {
+    position: absolute;
+    top: 13px;
+    right: 13px;
+    cursor: pointer;
+}
+
+#postbox-container-3 .recipient-prop > td {
+    position: relative;
+}
+
+#postbox-container-3 tr:not(.recipient-prop):not(:last-of-type) > td {
+    border-bottom: 1px solid #ccd0d4;
+}
+
+#postbox-container-3 .recipient-prop > td > .remRec > .dashicons-trash {    
+    position: absolute;
+    top: 10px;
+    right: 14px;
+}
+
+#postbox-container-3 .dashicons-trash {
+    padding:3px 0 3px 3px;
+    cursor: pointer;
+}
+
+#publishing-action .spinner{
+    background: url(../images/spinner.gif) no-repeat;
+    background-size: 20px 20px;
+    display: inline-block;
+    visibility: hidden;
+    float: right;
+    vertical-align: middle;
+    opacity: .7;
+    width: 20px;
+    height: 20px;
+    margin: 4px 10px 0;
+    float: none;
+    margin-top: 5px;
+}
+
+#postbox-container-3 #addRecipient {
+    float: right;
+    margin: 12px;
+}
+
+.postbox .inside {
+    position: unset;
+}
